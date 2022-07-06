@@ -1,11 +1,11 @@
 <h1 align="center"> 
-  Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/humberto-ramone-8a739917a/"><i>Humberto Ramone</i></a> 👨🏽‍💻
+  Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/humberto-ramone-8a739917a/"><i>Humberto Ramone</i></a> 👨🏽‍💻
 </h1>
 <div>
-  <p>👨🏽‍🎓 Sou formado em técnico em informática <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica"><i>Senac São Paulo</i></a></p>
-  <p>🎓 Estou finalizando a graduação superior em análise e desenvolvimento de sistema na <a href="https://portal.anhembi.br/graduacao/analise-e-desenvolvimento-de-sistemas/"><i>Anhembi Morumbi</i></a></p>
-  <p>💻 Atualmente trabalho como programador <a href="https://docs.microsoft.com/pt-br/dotnet/core/introduction"><i>.NET</i></a> full-stack júnior na <a href="https://csprime.com.br/"><i>CSPrime</i></a> atuando no back-end com <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><i>C#</i></a> e no front-end com HTML5, CSS3, Javascript e com os frameworks ASP.NET e <a href="https://www.telerik.com/products/aspnet-ajax.aspx"><i>Telerik</i></a> e soluções em microsserviços e API's Rest </p>
-  <p>📚 Estou iniciando os estudos com o framework <a href="https://angular.io/start"><i>Angular</i></a> e <a href="https://www.typescriptlang.org/"><i>Typescript</i></a></p>
+  <p>👨🏽‍🎓 Sou formado em técnico em informática na instituição de ensino <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica"><i>SENAC - SP</i></a></p>
+  <p>🎓 Faço graduação de análise e desenvolvimento de sistema na <a href="https://portal.anhembi.br/graduacao/analise-e-desenvolvimento-de-sistemas/"><i>Universidade Anhembi Morumbi</i></a></p>
+  <p>💻 Atualmente trabalho como programador <a href="https://docs.microsoft.com/pt-br/dotnet/core/introduction"><i>.NET</i></a> <a href="https://www.youtube.com/watch?v=h0HVMDNhAeo"><i>full-stack</i></a> júnior na <a href="https://csprime.com.br/"><i>CSPrime</i></a>, atuando no back-end com <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><i>C#</i></a> e no front-end com HTML5, CSS3, JavaScript e com os frameworks <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40"><i>ASP.NET</i></a> e <a href="https://www.telerik.com/products/aspnet-ajax.aspx"><i>Telerik</i></a> e soluções em microsserviços e API's Rest </p>
+  <p>📚 Estou iniciando os estudos com o framework <a href="https://angular.io/start"><i>Angular</i></a> e a linguagem <a href="https://www.typescriptlang.org/"><i>TypeScript</i></a></p>
 </div></br>
 
 <div align="center">
@@ -50,5 +50,5 @@
 </div>
 
 <div align="center">
-  <p class="text-center text-muted">© Humberto Ramone&nbsp;&nbsp;</p>
+  <p class="text-center text-muted">© HRSolution&nbsp;&nbsp;</p>
 </div>
