@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Tudo+bem?+Eu+sou+o+Humberto+Ramone👨🏽‍💻;Seja+bem-vindo(a)+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Tudo+bem?+Eu+sou+o+Humberto+Ramone👨🏽‍💻;Seja+bem-vindo(a)+ao+meu+perfil+😃️)](https://git.io/typing-svg)
 
 <div>
   <p>👨🏽‍🎓 Sou formado em técnico em informática na instituição de ensino <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica"><i>SENAC - SP</i></a>.</p>
