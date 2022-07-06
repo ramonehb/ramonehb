@@ -1,7 +1,12 @@
 <h1 align="center"> 
-  Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/humberto-ramone-8a739917a/"><i>Humberto Ramone</i></a> 😃️
+  Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/humberto-ramone-8a739917a/"><i>Humberto Ramone</i></a> 👨🏽‍💻
 </h1>
-<p align="center"><i>"Sou desenvolvedor de software com as ferramentas do .NET"</i></p>
+<div>
+  <p>👨🏽‍🎓 Sou formado em técnico em informática <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica"><i>Senac São Paulo</i></a></p>
+  <p>🎓 Estou finalizando a graduação superior em análise e desenvolvimento de sistema na <a href="https://portal.anhembi.br/graduacao/analise-e-desenvolvimento-de-sistemas/"><i>Anhembi Morumbi</i></a></p>
+  <p>💻 Atualmente trabalho como programador <a href="https://docs.microsoft.com/pt-br/dotnet/core/introduction"><i>.NET</i></a> full-stack júnior na <a href="https://csprime.com.br/"><i>CSPrime</i></a> atuando no back-end com <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><i>C#</i></a> e no front-end com HTML5, CSS3, Javascript e com os frameworks ASP.NET e <a href="https://www.telerik.com/products/aspnet-ajax.aspx"><i>Telerik</i></a> e soluções em microsserviços e API's Rest </p>
+  <p>📚 Estou iniciando os estudos com o framework <a href="https://angular.io/start"><i>Angular</i></a> e <a href="https://www.typescriptlang.org/"><i>Typescript</i></a></p>
+</div></br>
 
 <div align="center">
   <a href="https://github.com/ramonehb">
@@ -9,6 +14,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonehb&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+<p align="center"><i>"Sou um jovem de 24 anos apaixonado por tecnologia e programação"</i></p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
