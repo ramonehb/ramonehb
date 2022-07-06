@@ -15,6 +15,7 @@
   </a>
 </div>
 
+</br>
 <p align="center"><i>"Sou um jovem de 24 anos apaixonado por tecnologia e programação."</i></p>
 
 <div align="center" valign="top"><br>
