@@ -1,6 +1,5 @@
-<h1 align="center"> 
-  Olá Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/humberto-ramone-8a739917a/"><i>Humberto Ramone</i></a> 👨🏽‍💻
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Tudo+bem?+Eu+sou+o+Humberto+Ramone👨🏽‍💻;Seja+bem-vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+
 <div>
   <p>👨🏽‍🎓 Sou formado em técnico em informática na instituição de ensino <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica"><i>SENAC - SP</i></a>.</p>
   <p>🎓 Faço graduação de análise e desenvolvimento de sistema na <a href="https://portal.anhembi.br/graduacao/analise-e-desenvolvimento-de-sistemas/"><i>Universidade Anhembi Morumbi</i></a>.</p>
@@ -45,9 +44,13 @@
 </div>
 
 <div align="center">
-  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+</div>
+
+<div align="center">
+  <br><p align="centre"><b>Quantidade de visitas</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ramonehb}/count.svg" /></p> 
+  <br>
 </div>
 
 <div align="center">
