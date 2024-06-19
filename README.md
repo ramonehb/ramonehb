@@ -44,12 +44,6 @@
 </div>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/ramonehb/ramonehb/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
   <br><p align="centre"><b>Quantidade de visitas</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ramonehb}/count.svg" /></p> 
   <br>
