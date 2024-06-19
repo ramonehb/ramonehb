@@ -16,7 +16,7 @@
 </div>
 
 </br>
-<p align="center"><i>"Sou um jovem de 25 anos apaixonado por tecnologia e programação."</i></p>
+<p align="center"><i>"Sou um jovem de 26 anos apaixonado por tecnologia e programação."</i></p>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
