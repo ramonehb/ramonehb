@@ -1,11 +1,103 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e97d1&size=40&center=true&vCenter=true&width=1000&lines=Olá+tudo+bem?+Eu+sou+o+Humberto+Ramone👨🏽‍💻;Seja+bem-vindo(a)+ao+meu+perfil+😃️)](https://git.io/typing-svg)
 
-<div>
-  <p>👨🏽‍🎓 Sou técnico em informática formado na instituição de ensino <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica"><i>SENAC - SP</i></a>.</p>
-  <p>👨🏽‍🎓 Graduado em análise e desenvolvimento de sistema na <a href="https://portal.anhembi.br/graduacao/analise-e-desenvolvimento-de-sistemas/"><i>Universidade Anhembi Morumbi</i></a></p>
-  <p>💻 Atualmente trabalho como Analista Desenvolver <a href="https://docs.microsoft.com/pt-br/dotnet/core/introduction"><i>.NET</i></a> <a href="https://www.youtube.com/watch?v=h0HVMDNhAeo"><i>full-stack</i></a> pleno na <a href="https://csprime.com.br/"><i>CSPrime</i></a>, atuando no back-end com <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><i>C#</i></a> e no front-end com HTML5, CSS3, JavaScript e com os frameworks <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40"><i>ASP.NET e .NET</i></a> e <a href="https://www.telerik.com/products/aspnet-ajax.aspx"><i>Telerik</i></a>. Também atuando em integrações de sistemas, desenvolvimento de microsserviços e API's.</p>
-  <p>📚 Estou iniciando os estudos com o framework <a href="https://angular.io/start"><i>Angular</i></a> e a linguagem <a href="https://www.typescriptlang.org/"><i>TypeScript</i></a>.</p>
-</div></br>
+<h3 align="center">
+  Tech Lead | Senior Software Engineer | AI Engineer
+</h3>
+
+<p align="center">
+  Engenharia de Software • Inteligência Artificial • Cloud • Arquitetura
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou Tech Lead e Engenheiro de Software com experiência no desenvolvimento
+e arquitetura de sistemas distribuídos, microsserviços, soluções cloud e,
+mais recentemente, aplicações baseadas em Inteligência Artificial Generativa.
+
+Atualmente atuo no Itaú Unibanco, no Private Bank, liderando tecnicamente
+iniciativas de Inteligência Artificial e contribuindo para a evolução de
+soluções baseadas em LLMs, agentes de IA, MCP, RAG e arquiteturas orientadas
+a serviços na AWS.
+
+Antes do Itaú, atuei no BTG Pactual como Engenheiro de Software,
+trabalhando em sistemas do mercado financeiro e soluções de alta criticidade,
+utilizando principalmente .NET, C#, microsserviços, mensageria,
+Kubernetes, AWS e bancos de dados relacionais.
+
+Minha trajetória profissional também inclui passagem pela CSPrime,
+onde consolidei minha base em desenvolvimento de software e no
+ecossistema .NET.
+
+Atualmente, meu principal foco técnico está na interseção entre
+Engenharia de Software, Cloud e Inteligência Artificial.
+
+---
+
+## 🧠 Atualmente trabalhando e estudando
+
+- Inteligência Artificial Generativa e LLMs
+- Arquitetura e orquestração de agentes de IA
+- MCP (Model Context Protocol)
+- RAG e Tool Calling
+- LangChain e LangGraph
+- Python aplicado a IA
+- Arquiteturas Serverless e Cloud Native na AWS
+- Observabilidade e avaliação de aplicações de IA
+
+---
+
+## 🛠️ Tech Stack
+
+### Inteligência Artificial
+`LLMs` `AI Agents` `MCP` `RAG` `Tool Calling` `LangChain` `LangGraph`
+
+### Back-end
+`Python` `C#` `.NET` `ASP.NET Core` `REST APIs` `Microservices`
+
+### Cloud & DevOps
+`AWS` `Lambda` `API Gateway` `ECS` `EKS` `S3` `DynamoDB`
+`Athena` `Docker` `Kubernetes` `Terraform` `CI/CD`
+
+### Mensageria & Dados
+`RabbitMQ` `SQS` `SNS` `SQL Server` `Redis`
+
+### Observabilidade
+`CloudWatch` `Datadog` `Grafana` `OpenSearch`
+
+---
+
+## 💼 Experiência
+
+### 🟧 Itaú Unibanco — Tech Lead | AI
+**Private Bank**
+
+Liderança técnica e arquitetura de soluções de Inteligência Artificial,
+com foco em agentes de IA, LLMs, MCP, RAG, integração de ferramentas
+e serviços AWS.
+
+### ⬛ BTG Pactual — Senior Software Engineer
+
+Desenvolvimento de sistemas para o mercado financeiro, atuando com
+aplicações de alta criticidade, microsserviços, integrações e
+arquiteturas distribuídas.
+
+Principais tecnologias:
+`.NET` `C#` `SQL Server` `RabbitMQ` `Redis` `Docker`
+`Kubernetes` `AWS` `Datadog` `Grafana`
+
+### 💻 CSPrime — Software Developer Mid-Level
+
+Desenvolvimento de aplicações e integrações utilizando principalmente
+o ecossistema Microsoft e .NET.
+
+---
+
+## 🚀 Áreas de interesse
+
+`AI Engineering` • `Software Architecture` • `Distributed Systems` •
+`Cloud Computing` • `AI Agents` • `Generative AI` • `Technical Leadership`
 
 <div align="center">
   <a href="https://github.com/ramonehb?tab=repositories">
