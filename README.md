@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e97d1&size=40&center=true&vCenter=true&width=1000&lines=Olá+tudo+bem?+Eu+sou+o+Humberto+Ramone👨🏽‍💻;Seja+bem-vindo(a)+ao+meu+perfil+😃️)](https://git.io/typing-svg)
 
 <h3 align="center">
-  Tech Lead | Senior Software Engineer | AI Engineer
+  Tech Lead | Senior Software Engineer
 </h3>
 
 <p align="center">
